@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baterina_NavigationDrawer</string>
+    <string name="open_drawer">Baterina_NavigationDrawer</string>
+    <string name="close_drawer">Baterina_NavigationDrawer</string>
+</resources>
